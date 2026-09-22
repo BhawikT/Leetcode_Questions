@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/BhawikT/Leetcode_Questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/BhawikT/Leetcode_Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhawikT/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BhawikT/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
 |  |
 | ------- |
@@ -21,8 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/BhawikT/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [1313-decompress-run-length-encoded-list](https://github.com/BhawikT/Leetcode_Questions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhawikT/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BhawikT/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhawikT/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BhawikT/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
