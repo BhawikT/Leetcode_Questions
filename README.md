@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/BhawikT/Leetcode_Questions/tree/master/0118-pascals-triangle) |
 | [1313-decompress-run-length-encoded-list](https://github.com/BhawikT/Leetcode_Questions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhawikT/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/BhawikT/Leetcode_Questions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BhawikT/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/BhawikT/Leetcode_Questions/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/BhawikT/Leetcode_Questions/tree/master/1471-the-k-strongest-values-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/BhawikT/Leetcode_Questions/tree/master/1471-the-k-strongest-values-in-an-array) |
 <!---LeetCode Topics End-->
