@@ -18,4 +18,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhawikT/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BhawikT/Leetcode_Questions/tree/master/0035-search-insert-position) |
+| [1313-decompress-run-length-encoded-list](https://github.com/BhawikT/Leetcode_Questions/tree/master/1313-decompress-run-length-encoded-list) |
 <!---LeetCode Topics End-->
