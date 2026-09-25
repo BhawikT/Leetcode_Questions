@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/BhawikT/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/BhawikT/Leetcode_Questions/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/BhawikT/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/BhawikT/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/BhawikT/Leetcode_Questions/tree/master/0704-binary-search) |
 | [1313-decompress-run-length-encoded-list](https://github.com/BhawikT/Leetcode_Questions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhawikT/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
