@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/BhawikT/Leetcode_Questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/BhawikT/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/BhawikT/Leetcode_Questions/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/BhawikT/Leetcode_Questions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/BhawikT/Leetcode_Questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/BhawikT/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/BhawikT/Leetcode_Questions/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/BhawikT/Leetcode_Questions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/BhawikT/Leetcode_Questions/tree/master/0118-pascals-triangle) |
+| [0509-fibonacci-number](https://github.com/BhawikT/Leetcode_Questions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BhawikT/Leetcode_Questions/tree/master/0011-container-with-most-water) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/BhawikT/Leetcode_Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
